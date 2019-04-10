@@ -1,3 +1,22 @@
 # UAS Bahasa Pemrograman 1
 
-silakan tuliskan langkah-langkah disertai screenshotnya
+#LANGKAH 1
+PERTAMA KITA FORK DARI REPOSITORY
+![1](https://user-images.githubusercontent.com/46734001/55853809-ccbd0700-5b8c-11e9-82d6-a66e299c02c9.png)
+
+#LANGKAH 2
+LALU KITA CLONE KE LOCAL REPOSITORY
+![2](https://user-images.githubusercontent.com/46734001/55853812-d47cab80-5b8c-11e9-84da-72f8d4b54a8c.png)
+
+#LANGKAH 3
+KEMUDIAN KITA KLIK CORE, LALU PILIH BASEAPP KEMUDIAN COPY
+![3](https://user-images.githubusercontent.com/46734001/55853817-da728c80-5b8c-11e9-9b49-7c31e9741e1a.png)
+
+#LANGKAH 4
+KLIK FILE IMG, PILIH MAIN.PY. PASTE KODINGAN TADI PADA KOLOM MAIN.PY
+![5](https://user-images.githubusercontent.com/46734001/55853829-e78f7b80-5b8c-11e9-986f-3ab39af8f50c.png)
+
+#LANGKAH 5
+PINDAHKAN SATU PARAGRAF PROGRAM KE ATAS PERINTAH CLASS APP
+![4](https://user-images.githubusercontent.com/46734001/55853820-e0686d80-5b8c-11e9-9b3f-308c039ea8e7.png)
+
